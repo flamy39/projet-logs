@@ -1,0 +1,36 @@
+[2022-01-03T11:04:24.467823+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:04:24.468292+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:04:24.468465+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:16:10.962557+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:16:10.963296+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:16:10.963561+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:27:34.303217+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:27:34.303558+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:27:34.303737+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:38:40.085820+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:38:40.086136+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:38:40.086297+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:40:54.130005+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:40:54.130325+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:40:54.130519+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:40:54.130846+01:00] app.ERROR: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:40:54.131094+01:00] app.CRITICAL: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:40:54.131275+01:00] app.ALERT: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:51:23.843680+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:51:23.843997+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:51:23.844160+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:51:23.844508+01:00] app.ERROR: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:51:23.844705+01:00] app.CRITICAL: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:51:23.844853+01:00] app.ALERT: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:52:42.339460+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:52:42.339830+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:52:42.340009+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:52:42.340348+01:00] app.ERROR: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:52:42.340543+01:00] app.CRITICAL: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:52:42.340729+01:00] app.ALERT: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:53:07.469313+01:00] app.ERROR: Ceci est un message d'erreur ! [] []
+[2022-01-03T11:53:07.469693+01:00] app.CRITICAL: Ceci est un message critique [] []
+[2022-01-03T11:53:07.469876+01:00] security.ERROR: Message erreur sécurité [] []
+[2022-01-03T11:53:07.470208+01:00] app.ERROR: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:53:07.470429+01:00] app.CRITICAL: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
+[2022-01-03T11:53:07.470610+01:00] app.ALERT: Message utilisant extra [] {"ip":"240.45.12.3","user":"DUPOND"}
